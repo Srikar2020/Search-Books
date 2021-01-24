@@ -35,7 +35,5 @@ It was built using the MERN stack, with a React front end, MongoDB database, and
 npm i
 
 # Screenshot:
-
-/Users/srikarkudumula/Desktop/Search-Books/assets/Screen Shot 2021-01-24 at 12.26.01 AM.png
-
+![image](https://imgur.com/sZ3NzK0)
 
