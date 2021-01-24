@@ -2,4 +2,4 @@
 
 
 # Deployment URL: 
-https://ucb-book-search-engine.herokuapp.com/
+https://ucb-books-search-engine.herokuapp.com/
